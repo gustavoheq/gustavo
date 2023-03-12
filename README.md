@@ -21,6 +21,7 @@
  <br/>
  
  <div align="center">
+  
  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)&ensp;
  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)&ensp;
  ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ffff00)&ensp;
@@ -33,6 +34,7 @@
  ![typescript]( https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=4566f7)&ensp;
  ![trello](https://img.shields.io/badge/trello-000000?style=for-the-badge&logo=trello&logoColor=5c95ff)&ensp;
  ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=ffffff)&ensp;
+  
  </div>
  
  <br/>
