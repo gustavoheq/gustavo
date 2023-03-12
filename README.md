@@ -2,8 +2,8 @@
 - 👀 I’m interested in web development...
 - 💞️ I’m looking to collaborate on any projects...
 
- ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)&ensp; 
- <a href="(https://www.linkedin.com/in/gustavohnrique/)">
+ ![Linkedin]<a href="https://www.linkedin.com/in/clovis-veiga-31624a126/" target="_blank"> (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)&ensp; 
+ 
  
 <div>
   <a href="https://github.com/gustavoheq">
