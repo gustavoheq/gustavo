@@ -5,9 +5,9 @@
  
 <div>
   <a href="https://github.com/gustavoheq">
-    <img height="160em"
+    <img height="170em"
       src="https://github-readme-stats.vercel.app/api?username=gustavoheq&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="160em"
+    <img height="170em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoheq&layout=compact&langs_count=7&theme=dracula" />
 </div>
  
