@@ -33,13 +33,10 @@
  ![MySQL](https://img.shields.io/badge/MySQL-15406b?style=for-the-badge&logo=mysql&logoColor=white)&ensp;
  ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)&ensp;
  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&ensp;
- ![FireBase](https://img.shields.io/badge/firebase-000000?style=for-the-badge&logo=firebase&logoColor=ffd017)&ensp;
- ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)&ensp;
  ![typescript]( https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=4566f7)&ensp;
  ![trello](https://img.shields.io/badge/trello-000000?style=for-the-badge&logo=trello&logoColor=5c95ff)&ensp;
  ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=ffffff)&ensp;
- ![postman](https://img.shields.io/badge/postman-000000?style=for-the-badge&logo=postman&logoColor=ff7f1c)&ensp;
- ![jest](https://img.shields.io/badge/jest-000000?style=for-the-badge&logo=jest&logoColor=f78307)&ensp;
+
  
  
  </div>
