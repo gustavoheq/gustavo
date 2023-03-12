@@ -1,7 +1,9 @@
-- 👋 Hi, I’m Gustavo Henrique
+- 👋 Hi, I’m Gustavo Henrique 
 - 👀 I’m interested in web development...
 - 💞️ I’m looking to collaborate on any projects...
 
+ ![Linkedin]https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white;
+ 
 <div>
   <a href="https://github.com/gustavoheq">
     <img height="180em"
