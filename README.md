@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any projects...
 
 <div>
-  <a href="https://github.com/vinnydeveloper">
+  <a href="https://github.com/gustavoheq">
     <img height="180em"
       src="https://github-readme-stats.vercel.app/api?username=gustavoheq&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
     <img height="180em"
