@@ -31,7 +31,7 @@
  ![MySQL](https://img.shields.io/badge/MySQL-15406b?style=for-the-badge&logo=mysql&logoColor=white)&ensp;
  ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)&ensp;
  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&ensp;
- ![typescript](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=4566f7)&ensp;
+ ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&ensp;
  ![trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)&ensp;
  ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=ffffff)&ensp;
   
